@@ -12,7 +12,7 @@ do.cleanup=1
 do.cleanuponabort=0
 device.name1=begonia
 device.name2=begoniain
-supported.versions=
+supported.versions=11 - 12
 supported.patchlevels=
 '; } # end properties
 
